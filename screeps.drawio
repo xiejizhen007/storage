@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-16T15:10:25.987Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="wYQQe3aEn2-JHSkUaKZA" version="15.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-16T16:28:33.525Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="-Cyxm_Jg4B8L43LZEeZj" version="15.9.6" type="github">
   <diagram id="FJ65A4JryQL9uim0BBSM" name="第 1 页">
     <mxGraphModel dx="1422" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,8 +7,8 @@
         <mxCell id="hEJRKLJD_Pj3gzmxaCR--3" value="supermayor" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eUL4CjRWL8F3ftqwFGwx-1" value="town" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="150" width="120" height="60" as="geometry" />
+        <mxCell id="XXC-0rGeVJGXXH1jvxTK-5" value="town&lt;br&gt;以房间为单位的最大工作对象" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="130" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
