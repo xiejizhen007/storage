@@ -1,9 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2021-12-16T16:31:54.132Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="eK0GIUn8vqppnmOFFji4" version="15.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-17T16:53:01.154Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="HmQaGJkkRLFdfIcKc7YC" version="15.9.6" type="github">
   <diagram id="FJ65A4JryQL9uim0BBSM" name="第 1 页">
     <mxGraphModel dx="1422" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="JsFYLPz9mCt-rpE-mHq3-10" value="镇长（Mayor）" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="330" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JsFYLPz9mCt-rpE-mHq3-14" value="小镇（Town）" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="330" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
