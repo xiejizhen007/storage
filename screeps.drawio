@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-25T02:53:28.979Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="XzpN9dmneK_qBCzKSIkz" version="16.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-25T03:04:28.750Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="YRWLJI_wVY-pJomlp35F" version="16.0.0" type="github">
   <diagram id="FJ65A4JryQL9uim0BBSM" name="第 1 页">
     <mxGraphModel dx="1422" dy="1942" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -62,10 +62,10 @@
           <mxGeometry y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sVXR3pJQItcY3t586o-r-14" value="TerminalNetwork&lt;br&gt;各房间物质传输网络" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="-160" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="-160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sVXR3pJQItcY3t586o-r-15" value="MarketNetwork&lt;br&gt;市场交易" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="-160" width="120" height="60" as="geometry" />
+          <mxGeometry x="310" y="-160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sVXR3pJQItcY3t586o-r-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sVXR3pJQItcY3t586o-r-16" target="sVXR3pJQItcY3t586o-r-14">
           <mxGeometry relative="1" as="geometry" />
@@ -73,8 +73,14 @@
         <mxCell id="sVXR3pJQItcY3t586o-r-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sVXR3pJQItcY3t586o-r-16" target="sVXR3pJQItcY3t586o-r-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="sVXR3pJQItcY3t586o-r-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sVXR3pJQItcY3t586o-r-16" target="sVXR3pJQItcY3t586o-r-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="sVXR3pJQItcY3t586o-r-16" value="GlobalNetwork" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="-320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sVXR3pJQItcY3t586o-r-20" value="FactoryNetwork&lt;br&gt;工厂" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="-160" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
